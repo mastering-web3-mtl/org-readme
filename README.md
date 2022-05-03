@@ -1,8 +1,6 @@
 # README 📖
 
-> **Mastering Web3 Development Montreal**
-Welcome to the Montreal-based Web3 development community org!
->
+> Welcome to the Montreal-based Web3 development community org! 🌱
 
 ### "Ok, yet another meetup. Why?"
 
@@ -19,9 +17,9 @@ We are all beginners in some way, and it is best to keep a beginner's mind if ou
 
 ### “Where?”
 
-Join our discord server and meetup group:
-Discord: https://discord.gg/ctb6uAGACy
-Meetup: https://www.meetup.com/mastering-web3-mtl/
+Join our discord server and meetup group: <br>
+Discord: https://discord.gg/ctb6uAGACy <br>
+Meetup: https://www.meetup.com/mastering-web3-mtl/ <br>
 
 Discord’s mostly where all digital conversations and announcements will be.
 
@@ -31,6 +29,14 @@ Stay tune for in-person event announcements!
 
 This community cannot be built alone. All members are encouraged to get involved and help.
 
-Know people that would love to join? **Share the meetup!**
-Interested in leading a workshop at an event? **Propose it to the group!**
-Know companies that would be interested in hosting and sponsoring our events? **Share it with the group!**
+Know people that would love to join? **Share the meetup!** <br>
+Interested in leading a workshop at an event? **Propose it to the group!** <br>
+Know companies that would be interested in hosting and sponsoring our events? **Share it with the group!** <br>
+
+---
+
+If you'd like to sponsor our events, communicate with our organizers: <br>
+| Organizer                                     | Email                                      |
+| --------------------------------------------- | ------------------------------------------ |
+| [cwdesroches](https://github.com/cwdesroches) | desroches.cw@gmail.com                     |
+
