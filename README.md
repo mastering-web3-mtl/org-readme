@@ -38,5 +38,5 @@ Know companies that would be interested in hosting and sponsoring our events? **
 If you'd like to sponsor our events, communicate with our organizers: <br>
 | Organizer                                     | Email                                      |
 | --------------------------------------------- | ------------------------------------------ |
-| [cwdesroches](https://github.com/cwdesroches) | desroches.cw@gmail.com                     |
+| [heyokx](https://github.com/heyokx) | desroches.cw@gmail.com                     |
 
